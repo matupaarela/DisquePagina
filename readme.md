@@ -1,4 +1,11 @@
-# Deiseño de páginas web
+# Diseño de páginas web
+
+### Contenido:
+- <a href="#html5">HTML</a>
+- <a href="#css">CSS</a>
+- <a href="#javascript">JavaScript</a>
+- <a href="#bootstrap">Bootstrap</a>
+- <a href="#bootstrap">Resultado Final</a>
 
 Este ejemplo muestra la forma básica de crear páginas web haciendo uso de los lenguajes informáticos y lenguajes de programación.
 se muestra conceptos básicos de las tecnologías utilizadas:
@@ -113,5 +120,5 @@ Algunos componentes de bootstrap utilizados en este ejemplo:
 - Containers(Layout): https://getbootstrap.com/docs/4.5/layout/overview/
 - Grid(Layout): https://getbootstrap.com/docs/4.5/layout/grid/
 
-Captura de pantalla del resultado final:
+## Captura de pantalla del resultado final:
 ![Screenshot](img/screenshot.png)
