@@ -5,7 +5,7 @@
 - <a href="#css">CSS</a>
 - <a href="#javascript">JavaScript</a>
 - <a href="#bootstrap">Bootstrap</a>
-- <a href="#bootstrap">Resultado Final</a>
+- <a href="#captura-de-pantalla-del-resultado-final">Resultado Final</a>
 
 Este ejemplo muestra la forma básica de crear páginas web haciendo uso de los lenguajes informáticos y lenguajes de programación.
 se muestra conceptos básicos de las tecnologías utilizadas:
